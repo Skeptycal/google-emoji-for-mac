@@ -2,4 +2,6 @@
 
 Place `Apple Color Emoji.ttc` in `/library/fonts` & enjoy. ✨
 
-Googles Emoji are provided under the Apache 2.0 License. They have been recompiled to work on macOS.
+Google Emoji are provided kindly provided by Google Inc under the SIL Open Font License, version 1.1. They have been recompiled to work on macOS.
+
+See also: https://github.com/googlei18n/noto-emoji
